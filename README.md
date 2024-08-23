@@ -1,8 +1,24 @@
-# React + Vite
+# CryptoConnect
+![CryptoConnect](public/logo.jpeg)
+CryptoConnect is a React-based web application that allows users to connect their cryptocurrency wallets and view their token balances. The application supports both Ethereum and Solana wallets.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Features
 
-Currently, two official plugins are available:
+- Connect to Ethereum and Solana wallets
+- View token balances for connected wallets
+- User-friendly interface with TailwindCSS and DaisyUI
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Deployment
+The application can be easily deployed on Vercel.
+
+## Usage
+- Open the application in your browser.
+- Click the “Connect Wallet” button.
+- Choose your preferred wallet (Ethereum or Solana).
+- View your token balances.
+
+## Technologies Used
+- React
+- Web3.js
+- TailwindCSS
+- DaisyUI
